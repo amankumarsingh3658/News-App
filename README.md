@@ -16,7 +16,5 @@ Tech Stack:
 
 
 Flutter: For building the cross-platform UI.
-
 NewsAPI: To fetch the latest news articles.
-
 Webview: To display detailed news content within the app.
