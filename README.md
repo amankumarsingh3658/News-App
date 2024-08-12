@@ -1,16 +1,22 @@
-# newsapp
+News App - Flutter & NewsAPI Integration
 
-A new Flutter project.
 
-## Getting Started
+This is a simple yet powerful news application built using Flutter and integrated with the NewsAPI. The app allows users to browse the latest news articles from various sources, view detailed content within a webview, and enjoy a seamless reading experience.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Real-time News Updates: Fetches the latest news articles using the NewsAPI, ensuring users are always up-to-date with current events.
+Category Filtering: Users can filter news based on categories such as business, entertainment, sports, technology, and more.
+In-App Webview: Read full articles directly within the app using an embedded webview, offering a smooth and consistent user experience.
+Responsive Design: The app is fully responsive, providing an optimal user experience on both mobile and tablet devices.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Tech Stack:
+
+
+Flutter: For building the cross-platform UI.
+
+NewsAPI: To fetch the latest news articles.
+
+Webview: To display detailed news content within the app.
