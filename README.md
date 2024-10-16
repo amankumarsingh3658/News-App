@@ -7,8 +7,11 @@ This is a simple yet powerful news application built using Flutter and integrate
 Features:
 
 Real-time News Updates: Fetches the latest news articles using the NewsAPI, ensuring users are always up-to-date with current events.
+
 Category Filtering: Users can filter news based on categories such as business, entertainment, sports, technology, and more.
+
 In-App Webview: Read full articles directly within the app using an embedded webview, offering a smooth and consistent user experience.
+
 Responsive Design: The app is fully responsive, providing an optimal user experience on both mobile and tablet devices.
 
 
